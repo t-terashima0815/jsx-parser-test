@@ -1,0 +1,9 @@
+/.phpdoc/
+/.phpunit.cache/
+/coverage-html/
+/tools/
+/vendor/
+/node_modules/
+/build/
+/public/js/
+.phpunit.result.cache
